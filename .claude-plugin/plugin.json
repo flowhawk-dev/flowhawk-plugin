@@ -1,0 +1,11 @@
+{
+  "name": "flowhawk",
+  "version": "0.1.0",
+  "description": "Production data from Flowhawk in your coding agent: incidents, errors, traces and logs by business flow, and skills to investigate an incident, fix an error and check a release.",
+  "author": { "name": "Flowhawk", "url": "https://flowhawk.dev" },
+  "homepage": "https://flowhawk.dev/docs/agent.html",
+  "repository": "https://github.com/flowhawk-dev/flowhawk-plugin",
+  "license": "Apache-2.0",
+  "privacyPolicyUrl": "https://flowhawk.dev/privacy.html",
+  "keywords": ["observability", "incidents", "errors", "traces", "logs", "mcp"]
+}

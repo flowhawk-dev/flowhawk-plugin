@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "flowhawk": { "type": "http", "url": "https://api.flowhawk.dev/mcp" }
+  }
+}

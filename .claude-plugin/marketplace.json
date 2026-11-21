@@ -1,0 +1,12 @@
+{
+  "name": "flowhawk",
+  "owner": { "name": "Flowhawk", "url": "https://flowhawk.dev" },
+  "description": "The Flowhawk plugin for coding agents.",
+  "plugins": [
+    {
+      "name": "flowhawk",
+      "source": ".",
+      "description": "Production data from Flowhawk in your coding agent: incidents, errors, traces and logs by business flow, and skills to investigate an incident, fix an error and check a release."
+    }
+  ]
+}
